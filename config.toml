@@ -29,7 +29,7 @@ publishDir            = "public"				# 站点静态文件保存目录
     GoogleAdsClient = 'ca-pub-3594081485685271'					# Google AdSense 
 
 [params.qweather]
-    key = "085791e805a24491b43b06cf58ab31e7"
+    key = ""
 
 [params.images]
     favicon           = "assets/images/bi-favicon.png"
