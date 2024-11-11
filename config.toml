@@ -23,7 +23,7 @@ publishDir            = "public"				# 站点静态文件保存目录
 
 [params.seo]    
     baiduhmid       = '7fdd626d87b4c2ab5afee04e5fcd0b9d'	# 百度统计 hm.src 的 ID
-    baiduSiteVer    = 'codeva-cCAOSG8MBO'			# 百度HTML标签验证(baidu-site-verification)
+    baiduSiteVer    = 'codeva-oI2ANkeBCU'			# 百度HTML标签验证(baidu-site-verification)
     tj51laid        = ''                        		# 51.LA 网站统计
     tj51lack        = ''
     GoogleAdsClient = 'ca-pub-3594081485685271'					# Google AdSense 
