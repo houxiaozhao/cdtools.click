@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CDTools</title>
+    <link>https://cdtools.click/</link>
+    <description>Recent content on CDTools</description>
+    <generator>Hugo</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Tue, 28 Jul 2020 19:27:08 +0800</lastBuildDate>
+    <atom:link href="https://cdtools.click/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关于网站</title>
+      <link>https://cdtools.click/about/</link>
+      <pubDate>Tue, 28 Jul 2020 19:27:08 +0800</pubDate>
+      <guid>https://cdtools.click/about/</guid>
+      <description>&lt;h4 id=&#34;关于我们&#34;&gt;关于我们&lt;/h4&gt;&#xA;&lt;p&gt;CDTools 是一站式工具集合，提供各种便捷实用的在线工具。&lt;/p&gt;&#xA;&lt;p&gt;本站内容源自互联网，如有侵权，请联系我们删除。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
