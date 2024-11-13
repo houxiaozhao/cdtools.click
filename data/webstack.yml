@@ -632,6 +632,10 @@
       url: https://cgcs2000.cdtools.click
       description: WGS-84 至 CGCS2000 坐标转换器
 
+    - title: 临时邮箱
+      url: https://email.cdtools.click
+      description: 一键工具临时邮箱提供免费、安全的临时邮箱服务。无需注册即可使用,帮助您保护隐私,避免垃圾邮件。支持自定义邮箱地址,即时收件提醒。
+
     - title: 关注我们
       url: ./about
       description: 让工具助你一臂之力
