@@ -640,6 +640,10 @@
       url: https://gh-proxy.cdtools.click
       description: GitHub 文件加速下载服务
 
+    - title: Cloudflare 优选IP
+      url: https://cf-ip.cdtools.click
+      description: Cloudflare 优选IP,
+
     - title: 关注我们
       url: ./about
       description: 让工具助你一臂之力
