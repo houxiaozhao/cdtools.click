@@ -644,6 +644,10 @@
       url: https://cf-ip.cdtools.click
       description: Cloudflare 优选IP,
 
+    - title: 图片转 Excel
+      url: https://img2excel.cdtools.click
+      description: 图片转 Excel 在线工具
+
     - title: 关注我们
       url: ./about
       description: 让工具助你一臂之力
