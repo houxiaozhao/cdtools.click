@@ -648,6 +648,10 @@
       url: https://img2excel.cdtools.click
       description: 图片转 Excel 在线工具
 
+    - title: 学生证生成器
+      url: https://studentid.cdtools.click
+      description: 学生证生成器
+
     - title: 关注我们
       url: ./about
       description: 让工具助你一臂之力
