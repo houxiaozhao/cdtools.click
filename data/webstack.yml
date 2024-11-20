@@ -652,6 +652,10 @@
       url: https://studentid.cdtools.click
       description: 学生证生成器
 
+    - title: PDF转扫描件
+      url: https://scan.cdtools.click
+      description: 能够让 PDF 看起来就像是扫描件一样的纯前端网站
+
     - title: 关注我们
       url: ./about
       description: 让工具助你一臂之力
