@@ -26,7 +26,7 @@
 - [ ] CAD 查看
 - [ ] cron 表达式生成器
 - [x] 学生证生成器
-- [ ] 图片转 Excel
+- [x] 图片转 Excel
 - [ ] 图片水印打码
 - [ ] 配色工具
 - [ ] 文字转图片应用 https://github.com/byodian/oneimg

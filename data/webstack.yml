@@ -656,6 +656,10 @@
       url: https://scan.cdtools.click
       description: 能够让 PDF 看起来就像是扫描件一样的纯前端网站
 
+    - title: 配色工具
+      url: https://prism.cdtools.click
+      description: 专业的在线配色工具，帮助设计师和开发者创建和谐、一致且符合无障碍标准的配色方案
+
     - title: 关注我们
       url: ./about
       description: 让工具助你一臂之力
