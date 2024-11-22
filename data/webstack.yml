@@ -660,6 +660,10 @@
       url: https://prism.cdtools.click
       description: 专业的在线配色工具，帮助设计师和开发者创建和谐、一致且符合无障碍标准的配色方案
 
+    - title: cron 表达式
+      url: https://cron.cdtools.click
+      description: 在线 cron 表达式生成器，帮助你轻松生成和管理 cron 表达式。
+
     - title: 关注我们
       url: ./about
       description: 让工具助你一臂之力
