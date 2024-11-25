@@ -13,13 +13,18 @@
     s.parentNode.insertBefore(hm, s);
   })();
 </script>
+<script src="https://link.cdtools.click/link.js"></script>
+```
+
+```html
+
 ```
 
 # TODO
 
 - [ ] webp 在线转换
 - [x] 国家 2000 坐标系转换
-- [ ] 图片压缩
+- [x] 图片压缩
 - [x] 临时邮箱
 - [ ] nginx 配置工具
 - [ ] markdown 生成思维导图
@@ -30,3 +35,4 @@
 - [ ] 图片水印打码
 - [ ] 配色工具
 - [ ] 文字转图片应用 https://github.com/byodian/oneimg
+- [ ] favicon 生成
