@@ -32,7 +32,8 @@
 - [x] cron 表达式生成器
 - [x] 学生证生成器
 - [x] 图片转 Excel
-- [ ] 图片水印打码
+- [x] 图片水印打码
 - [ ] 配色工具
 - [ ] 文字转图片应用 https://github.com/byodian/oneimg
 - [ ] favicon 生成
+- [x] 图片分割

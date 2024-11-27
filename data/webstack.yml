@@ -668,6 +668,10 @@
       url: https://compress.cdtools.click
       description: 在线图片压缩工具，帮助你轻松压缩图片。
 
+    - title: 图片分割工具
+      url: https://cut.cdtools.click
+      description: 图片分割工具 | 九宫格切图 | 免费无限制的朋友圈照片分割工具
+
     - title: 关注我们
       url: ./about
       description: 让工具助你一臂之力
