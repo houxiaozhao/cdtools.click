@@ -37,3 +37,7 @@
 - [ ] 文字转图片应用 https://github.com/byodian/oneimg
 - [ ] favicon 生成
 - [x] 图片分割
+- [x] 白噪声
+- [ ] 文本转语音
+- [ ] sql 设计工具
+- [ ] logo 设计
